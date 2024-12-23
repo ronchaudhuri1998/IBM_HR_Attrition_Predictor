@@ -11,3 +11,5 @@
  retention, to directly address the attrition problem by identifying the reasons for attrition.
  Therefore identifying employees that are likely to quit and taking related actions to
  entice employees to stay.
+## Machine Learning Algorithms Used
+Logistic Regression, Neural Network, Decision Trees, Association and Clustering
