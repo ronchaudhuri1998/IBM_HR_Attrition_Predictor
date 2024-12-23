@@ -1,6 +1,7 @@
 # IBM HR Employee Attrition Predictor
 ## Dataset: IBM HR Employee Attrition dataset
-## Problem description: Employee attrition is a critical issue faced by organizations
+## Problem description: 
+ Employee attrition is a critical issue faced by organizations
  globally, impacting productivity, morale, and the overall cost of recruitment and training.
  High attrition rates can lead to skill gaps, reduced team cohesion, and increased
  operational expenses. Understanding the factors contributing to attrition, such as job
