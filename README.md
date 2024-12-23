@@ -13,3 +13,6 @@
  entice employees to stay.
 ## Machine Learning Algorithms Used
 Logistic Regression, Neural Network, Decision Trees, Association and Clustering
+
+![image](https://github.com/user-attachments/assets/8f6f1edd-29cb-4767-95e3-e185946531d6)
+
