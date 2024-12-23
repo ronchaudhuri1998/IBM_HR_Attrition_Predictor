@@ -15,7 +15,8 @@
 Logistic Regression, Neural Network, Decision Trees, Association and Clustering
 ## Result and Justification
 ![image](https://github.com/user-attachments/assets/8f6f1edd-29cb-4767-95e3-e185946531d6)
-Taking into account accuracy, specificity, and sensitivity, the logistic
+
+ Taking into account accuracy, specificity, and sensitivity, the logistic
  regression model outperformed the neural network in all aspects. Where the
  model is important in identifying the cases correctly, it is however unable to give a
  good enough prediction for the employees that are likely to quit. High false
